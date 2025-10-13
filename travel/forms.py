@@ -10,6 +10,10 @@ class RegisterForm(FlaskForm):
     location=StringField('위치', validators=[DataRequired("위치는 필수입력 항목입니다.")])
     season= StringField('계절') 
     content=TextAreaField('내용', validators=[DataRequired("설명은 필수입력 항목입니다.")])
+    time=StringField('위치', validators=[DataRequired("소요시간은 필수입력 항목입니다.")])
+    price=StringField('위치', validators=[DataRequired("평균금액은 필수입력 항목입니다.")])
+    rating=StringField('위치', validators=[DataRequired("평점은 필수입력 항목입니다.")])
+    level=StringField('위치', validators=[DataRequired("난이도는 필수입력 항목입니다.")])
 
 class ReviewForm(FlaskForm):
     content = TextAreaField('내용', validators=[DataRequired("내용은 필수입력 항목입니다.")])
