@@ -10,8 +10,6 @@
 🔉 정두균 : 프론트&백엔드 <br>
 🔊 박유진 : 프론트&백엔드
 
-<br/>
-
 ## 기획 의도
  - 사용자들에게 최적화된 여행지 정보 제공
  - 여행 계획을 쉽고 편하게 세울 수 있도록 지원
@@ -41,6 +39,7 @@
 
 
 [프로젝트 소개 PDF](https://github.com/AI-X-Flask-project/project_main/blob/main/6bit_travel.pdf)
+
 
 
 
