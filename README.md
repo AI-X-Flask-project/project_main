@@ -6,7 +6,7 @@
 
 ## 팀원
 🔈 이상수 : 프론트&백엔드&DB <br>
-🔉 박혜림 : 프론트 <br>
+🔉 박혜림 : 프론트&백엔드 <br>
 🔉 정두균 : 프론트&백엔드 <br>
 🔊 박유진 : 프론트&백엔드
 
@@ -20,4 +20,5 @@
 
 
 [프로젝트 소개 PDF](https://github.com/AI-X-Flask-project/project_main/blob/main/6bit_travel.pdf)
+
 
