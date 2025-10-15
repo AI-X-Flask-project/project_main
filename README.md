@@ -37,8 +37,9 @@
 
 ## Diagram
 
+## 프로젝트 보고서
+[6비트 결과보고.pdf](https://github.com/AI-X-Flask-project/project_main/blob/main/6bit_travel.pdf)
 
-[프로젝트 소개 PDF](https://github.com/AI-X-Flask-project/project_main/blob/main/6bit_travel.pdf)
 
 
 
